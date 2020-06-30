@@ -1,0 +1,11 @@
+﻿  teacher.cpp
+f:\cproject\机房预约系统\机房预约系统\teacher.cpp(120): warning C4018: “<=”: 有符号/无符号不匹配
+  student.cpp
+f:\cproject\机房预约系统\机房预约系统\student.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+f:\cproject\机房预约系统\机房预约系统\student.cpp(275): warning C4018: “<=”: 有符号/无符号不匹配
+  manager.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  机房预约系统.cpp
+  机房预约系统.vcxproj -> F:\Cproject\机房预约系统\Debug\机房预约系统.exe
+  机房预约系统.vcxproj -> F:\Cproject\机房预约系统\Debug\机房预约系统.pdb (Partial PDB)
